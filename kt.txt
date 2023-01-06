@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html 5 introdused tag</title>
+   <h1>Welcome to My Project</h1>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Used tags</a></li>
+           <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <article>
+        <h1>About Myself</h1>
+        <p> These is all about me..</p>
+        <aside>
+            <p>Book Your seat</p>
+        </aside>
+    </article>
+    <progress min="0" max="100" value="10"></progress>
+<footer>Copyright &copy 2023.All Right are Reserved.</footer>
+</body>
+</html>
